@@ -1,0 +1,4 @@
+V45.0
+Windows: 32,64
+Linux: 64
+Mac
